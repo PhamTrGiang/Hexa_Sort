@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/MainScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_1.unity
+    guid: 7e431b3897e722c4bb01774b592b5b20
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_2.unity
+    guid: 6488fdf133728814ebe4c3b05d4f93c1
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_3.unity
+    guid: fb15b98b68cb7f249919fcb69942ab10
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_4.unity
+    guid: 4319041fa12398c42aceb6d20b5797ce
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_5.unity
+    guid: ae502c39bc52d35409dc744484e66da1
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_6.unity
+    guid: 49613325b5cb8ab42b03f0b880a8018b
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_7.unity
+    guid: 3afc20e38262a364e80352fe2c280242
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_8.unity
+    guid: c9b88adc00bc72145a552dfb96130dc5
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_9.unity
+    guid: 4cbdc6e7ac5d13f43afa44a11939ddf2
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_10.unity
+    guid: 17bd1cecab92a8744b8eda0406dc8b7a
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_11.unity
+    guid: ffab7d3f99386fb4db854615411abab6
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_12.unity
+    guid: 7a3c9e28e56b9bf42a1d8bcd5e1fac7c
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_13.unity
+    guid: 5e3b9df15f396374a9518ad57233a5f9
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_14.unity
+    guid: b71598f9a87d3384eae761aad96cf3f4
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_15.unity
+    guid: 2f8e29360b98bfc48af3f70eb88b64fd
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_16.unity
+    guid: 779edc53169392a47991f9835ceec3d9
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_17.unity
+    guid: 62b4911b8cc6a9c46b856e520f20f39b
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_18.unity
+    guid: dadaaad8e56a85f4d901ea8eb606e6bf
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_19.unity
+    guid: c9dce1ed2bad84248a7cbf21f32ca8e3
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level/Level_20.unity
+    guid: 0c0971d7ae37f7d4a9c0c4d00fcb6a8b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
