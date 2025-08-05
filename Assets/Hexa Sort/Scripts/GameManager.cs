@@ -84,6 +84,7 @@ public class GameManager : MonoBehaviour
         menuUI.gameObject.SetActive(false);
         gameUI.gameObject.SetActive(true);
         gameUI.CloseAllPanel();
+        StrackSpawner.Instance.StopGenarateStacks();
         currentState = State.GAME;
 
         if (currentLevel != 0)
@@ -96,7 +97,6 @@ public class GameManager : MonoBehaviour
 
     public void ReloadLevel()
     {
-        StrackSpawner.Instance.StopGenarateStacks();
         LoadLevel(currentLevel);
     }
 
